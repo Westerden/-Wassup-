@@ -9,11 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          //sdfsdf213
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
